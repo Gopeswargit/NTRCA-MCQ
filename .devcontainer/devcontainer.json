@@ -10,6 +10,5 @@
                 "ms-python.python"
             ]
         }
-    },
-    "postCreateCommand": "bash setup.sh"
+    }
 }
